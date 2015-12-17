@@ -1,6 +1,6 @@
 name: LeatherandLock
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.26499
 typography_spectrum: 0.73251
 title: 'Leather & Lock'
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#080202'
-    - '#33160e'
-    - '#4b3736'
-    - '#60524f'
-    - '#89817e'
+    - '#000000'
+    - '#fefefa'
+    - '#77431b'
+    - '#a48356'
+    - '#f4dcb2'
   brandStrength: 0.625
   lightness: 0.375
   saturation: 0.5599230085499585
